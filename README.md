@@ -1,0 +1,2 @@
+# logger_rpi_throttole
+ラズパイの動作状況をロギングするやつ
