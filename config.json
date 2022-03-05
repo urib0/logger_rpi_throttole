@@ -1,0 +1,5 @@
+{
+    "basedir": "/home/pi/work/log",
+    "logdir_name": "throttole",
+    "interval": 3
+}
